@@ -1,5 +1,5 @@
 Summary:	ISO-8859-9 encoding support for xpdf
-Summary(pl.UTF-8):   Wsparcie kodowania ISO-8859-9 dla xpdf
+Summary(pl.UTF-8):	Wsparcie kodowania ISO-8859-9 dla xpdf
 Name:		xpdf-turkish
 Version:	1.0
 Release:	3
